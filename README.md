@@ -247,24 +247,24 @@ This suggests a strong cultural or personal preference for wine, making it a hig
 
 - Moscow: With an average wine consumption of 7.38 liters per capita and a solid wine-to-alcohol ratio, Moscow’s urban population and higher purchasing power make it an attractive market for premium wine campaigns.
 
-Sverdlovsk Oblast: Matching Moscow in average wine consumption, but with a higher 7.77% share of total alcohol, it shows consistent and reliable wine-drinking behavior.
+- Sverdlovsk Oblast: Matching Moscow in average wine consumption, but with a higher 7.77% share of total alcohol, it shows consistent and reliable wine-drinking behavior.
 
-Kamchatka Krai: records a remarkable 8.04% of total alcohol consumption from wine.
+- Kamchatka Krai: records a remarkable 8.04% of total alcohol consumption from wine.
 This indicates a niche market that values wine, possibly due to limited but intentional purchasing habits.
 
-Ivanovo Oblast: with an average of 7.24 liters per capita and a 7.71% wine share, signaling a balanced and steady preference for wine products.
+- Ivanovo Oblast: with an average of 7.24 liters per capita and a 7.71% wine share, signaling a balanced and steady preference for wine products.
 
-Krasnodar Krai: unsurprisingly shows a strong wine culture — with wine making up over 10% of total alcohol consumption.
+- Krasnodar Krai: unsurprisingly shows a strong wine culture — with wine making up over 10% of total alcohol consumption.
 This region may offer not just consumers, but also valuable local partnerships.
 
-Yaroslavl Oblast: maintaining both high per capita wine consumption and a respectable 8.24% share, confirming it as another high-performing region.
+- Yaroslavl Oblast: maintaining both high per capita wine consumption and a respectable 8.24% share, confirming it as another high-performing region.
 
-Tver Oblast: with 7.04 liters of wine per capita and nearly 9% of alcohol consumption coming from wine.
+- Tver Oblast: with 7.04 liters of wine per capita and nearly 9% of alcohol consumption coming from wine.
 Its numbers suggest a population with refined taste and potential for premium marketing.
 
-Chelyabinsk Oblast: with wine consumption at 6.94 liters and a 7.23% alcohol share, reflecting moderate yet consistent buying behavior.
+- Chelyabinsk Oblast: with wine consumption at 6.94 liters and a 7.23% alcohol share, reflecting moderate yet consistent buying behavior.
 
-Zabaykalsky Krai: Averaging 6.81 liters of wine and a 7.53% share, it presents another valuable opportunity to expand our promotional efforts.
+- Zabaykalsky Krai: Averaging 6.81 liters of wine and a 7.53% share, it presents another valuable opportunity to expand our promotional efforts.
 
 ### Recommendations
 Based on the analysis, it is recommended that the wine promotion campaign be expanded to regions that demonstrate either a high volume of wine consumption or a strong preference for wine relative to other alcoholic beverages.
