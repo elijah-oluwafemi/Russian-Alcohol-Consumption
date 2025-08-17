@@ -65,8 +65,10 @@ Remote regions like Kamchatka Krai or Zabaykalsky Krai might have infrastructure
 - Economic Disparities:
 High consumption doesn’t always translate to high purchasing power. A region might consume more affordable wine rather than premium brands — affecting the type of products that will succeed.
 
-- Local Competition and Regulations:
-Some regions may already have strong local wine brands or restrictions on alcohol advertising and promotions, limiting the campaign’s effectiveness.
+### Outlier Caution 
+- High percentages (e.g., Ingushetia, Dagestan) may reflect small baselines rather than true market similarity, so we prioritized balanced metrics.
+
+
 
 - Urban vs Rural Divide:
 Aggregated regional data may mask differences between urban centers (where promotions might do well) and rural areas (where interest may be lower).
